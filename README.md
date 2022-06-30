@@ -27,6 +27,11 @@ This repository contains some linux commands and shortcuts which may make your w
 - `cntl+e` to go to the end of the line of the command
 - `cntl+left arrow key` OR `cntl+right arrow key` to go left and right of letter bunches. Skipping all characters except spaces. basically to go from the end of a command to the start of the command in one keybind
 
+Example: 
+
+https://user-images.githubusercontent.com/51316255/176603118-df5e40f1-dc64-427a-87a3-86b32f1aaad7.mp4
+
+
 
 ### Bash Command Control
 
