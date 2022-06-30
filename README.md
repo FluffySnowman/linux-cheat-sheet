@@ -17,6 +17,12 @@ This repository contains some linux commands and shortcuts which may make your w
 
 ### Bash Keybinds
 
+- `cntl+c` stops any command from running
+
+Example:
+
+![image](https://user-images.githubusercontent.com/51316255/176604602-ac3b35d7-9df3-4c13-ad38-bf4bf490dbcd.png)
+
 - `cntl+r` to search for a command used in the past
 
 Example:
