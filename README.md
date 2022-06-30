@@ -1,5 +1,7 @@
 # The Linux Cheat Sheet
 
+This repository contains some linux commands and shortcuts which may make your work with linux more efficient. Feel free to create issues if some don't work of if some information is incorrect. Also feel free to share this so people can learn more about the efficiency of linux and learn some shortcuts that may help them in their work. 
+
 # INDEX:
 <ol>
     <li class="indexvals"><a href="#bash-cheats">Bash Cheats</a></li> 
