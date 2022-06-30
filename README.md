@@ -9,7 +9,7 @@ This repository contains some linux commands and shortcuts which may make your w
             <li class="indexvals"><a href="#bash-keybinds">Bash Keybinds</a></li>
             <li class="indexvals"><a href="#bash-command-control">Bash Command Control</a></li>
             </ul>
-    <li class="indexvals"><a href="#">a</a></li>
+    <li class="indexvals"><a href="#">Zsh Cheats</a></li>
 </ol>
 
 
@@ -52,4 +52,8 @@ Example:
 
 ![image](https://user-images.githubusercontent.com/51316255/176601444-13aa3f93-7d81-451e-ae5f-94651e45e6d0.png)
 
+
+## Zsh Cheats
+
+### Zsh Keybinds
 
