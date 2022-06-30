@@ -48,6 +48,8 @@ https://user-images.githubusercontent.com/51316255/176603118-df5e40f1-dc64-427a-
 - `!!` to run the last command
 - `sudo !!` to run the last command with superuser priveledges. This can save time if you forget to write sudo before a command as usually users use the left arrow key to go to the start of the command to type sudo. You can also use `cntl+a` to go to the start of the line to add sudo to it if you do not with to use this command
 
+Example:
+
 ![image](https://user-images.githubusercontent.com/51316255/176601444-13aa3f93-7d81-451e-ae5f-94651e45e6d0.png)
 
 
