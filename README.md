@@ -27,3 +27,6 @@
 
 
 ### Bash Command Control
+
+- `!!` to run the last command
+- `sudo !!` to run the last command with superuser priveledges. This can save time if you forget to write sudo before a command as usually users use the left arrow key to go to the start of the command to type sudo. You can also use `cntl+a` to go to the start of the line to add sudo to it if you do not with to use this command
