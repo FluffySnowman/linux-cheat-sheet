@@ -10,6 +10,9 @@ This repository contains some linux commands and shortcuts which may make your w
             <li class="indexvals"><a href="#bash-command-control">Bash Command Control</a></li>
             </ul>
     <li class="indexvals"><a href="#zsh-cheats">Zsh Cheats</a></li>
+            <ul>
+            <li class="indexvals"><a href="#zsh-keybinds">Zsh Keybinds</a></li>
+            </ul>    
 </ol>
 
 
