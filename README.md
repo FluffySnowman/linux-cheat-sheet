@@ -17,10 +17,7 @@
 
 - `cntl+r` to search for a command used in the past
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/51316255/176599460-151c6741-baa2-4acf-9b26-6f4612e35cc5.png" />
-</p>
-
+![image](https://user-images.githubusercontent.com/51316255/176599581-224b3711-fed6-4bd2-97cd-811fe468d28f.png)
 
 - `cntl+a` to go  to the start of the line of the command
 - `cntl+e` to go to the end of the line of the command
