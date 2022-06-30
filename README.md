@@ -1,3 +1,6 @@
+
+<html>
+<head>
 <script>
 function search() {
     let input = document.getElementById('searchbar').value
@@ -38,6 +41,9 @@ function search() {
    }
 
 </style>
+
+</head>
+</html>
 
 
 # The Linux Cheat Sheet
