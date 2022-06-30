@@ -29,7 +29,7 @@ Example:
 
 - `cntl+r` to search for a command used in the past
 
-    Example:
+- Example:
 
 ![image](https://user-images.githubusercontent.com/51316255/176599581-224b3711-fed6-4bd2-97cd-811fe468d28f.png)
 
