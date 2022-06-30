@@ -15,4 +15,9 @@
 
 ### Bash Keybinds
 
+- `cntl+r` to search for a command used in the past
+- `cntl+a` to go  to the start of the line of the command
+- `cntl+e` to go to the end of the line of the command
+
+
 ### Bash Command Control
