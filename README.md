@@ -19,6 +19,8 @@ This repository contains some linux commands and shortcuts which may make your w
 
 - `cntl+r` to search for a command used in the past
 
+Example:
+
 ![image](https://user-images.githubusercontent.com/51316255/176599581-224b3711-fed6-4bd2-97cd-811fe468d28f.png)
 
 ![image](https://user-images.githubusercontent.com/51316255/176599797-2dd59db1-a8f3-4122-8640-5f7b1bebd3e7.png)
