@@ -57,16 +57,16 @@ https://user-images.githubusercontent.com/51316255/176654693-956dd3eb-8b09-404d-
 
 ### Bash Command Control
 
-- `!!` to run the last command
-- `sudo !!` to run the last command with superuser priveledges. This can save time if you forget to write sudo before a command as usually users use the left arrow key to go to the start of the command to type sudo. You can also use `cntl+a` to go to the start of the line to add sudo to it if you do not with to use this command
+1. `!!` to run the last command
+2. `sudo !!` to run the last command with superuser priveledges. This can save time if you forget to write sudo before a command as usually users use the left arrow key to go to the start of the command to type sudo. You can also use `cntl+a` to go to the start of the line to add sudo to it if you do not with to use this command
 
 - Example:
 
 ![image](https://user-images.githubusercontent.com/51316255/176601444-13aa3f93-7d81-451e-ae5f-94651e45e6d0.png)
 
-- `!pw` to run a command starting with the letters "pw". Replace the string after the exclamation mark `!` with something similar to the command you have run previously in your history and it will execute. Otherwise there will be an error `event not found`.
+3. `!pw` to run a command starting with the letters "pw". Replace the string after the exclamation mark `!` with something similar to the command you have run previously in your history and it will execute. Otherwise there will be an error `event not found`.
 
-- Example:
+4. Example:
 
 ![image](https://user-images.githubusercontent.com/51316255/176787899-36b82c74-eea1-4737-9f8d-37f282f7f5b4.png)
 
@@ -78,7 +78,7 @@ https://user-images.githubusercontent.com/51316255/176654693-956dd3eb-8b09-404d-
 
 ### Zsh Control
 
-In Zsh you can instantly enter a directory by just typing the relative or full path of the desired directory to enter.
+1. In Zsh you can instantly enter a directory by just typing the relative (`Documents`) or full path (`/home/fluffy/Documents`) of the desired directory to enter.
 
 Example:
 
