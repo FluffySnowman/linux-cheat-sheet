@@ -44,6 +44,14 @@ https://user-images.githubusercontent.com/51316255/176603118-df5e40f1-dc64-427a-
 
 - `cntl+L` to clear the terminal screen. Only inserts blank spaces for the screen itself. Scrolling up will show you the previous commands you have done  but it does clear the screen in a way
 
+- `cntl+k` AND `cntl+u` to cut/delete everything to the end of the line. This is very useful when using `nano` (the terminal text editor).
+
+Example:
+
+https://user-images.githubusercontent.com/51316255/176654693-956dd3eb-8b09-404d-b5a6-2ec0999decff.mp4
+
+
+
 
 
 ### Bash Command Control
