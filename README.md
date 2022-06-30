@@ -64,6 +64,15 @@ Example:
 
 ![image](https://user-images.githubusercontent.com/51316255/176601444-13aa3f93-7d81-451e-ae5f-94651e45e6d0.png)
 
+- `!pw` to run a command starting with the letters "pw". Replace the string after the exclamation mark `!` with something similar to the command you have run previously in your history and it will execute. Otherwise there will be an error `event not found`.
+
+Example:
+
+![image](https://user-images.githubusercontent.com/51316255/176787899-36b82c74-eea1-4737-9f8d-37f282f7f5b4.png)
+
+![image](https://user-images.githubusercontent.com/51316255/176787925-6267d6ad-6d20-4a1c-acca-868d28b181df.png)
+
+
 
 ## Zsh Cheats
 
