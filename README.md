@@ -69,6 +69,11 @@ Example:
 
 ### Zsh Control
 
+In Zsh you can instantly enter a directory by just typing the relative or full path of the desired directory to enter.
+
+Example:
+
+https://user-images.githubusercontent.com/51316255/176688718-5bf0d552-853c-412f-8e46-458ed6b09ca3.mp4
 
 
 ### Zsh Keybinds
