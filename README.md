@@ -80,9 +80,9 @@ https://user-images.githubusercontent.com/51316255/176654693-956dd3eb-8b09-404d-
 
 1. In Zsh you can instantly enter a directory by just typing the relative (`Documents`) or full path (`/home/fluffy/Documents`) of the desired directory to enter.
 
-Example:
+- Example:
 
-- https://user-images.githubusercontent.com/51316255/176688718-5bf0d552-853c-412f-8e46-458ed6b09ca3.mp4
+https://user-images.githubusercontent.com/51316255/176688718-5bf0d552-853c-412f-8e46-458ed6b09ca3.mp4
 
 
 ### Zsh Keybinds
