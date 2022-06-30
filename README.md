@@ -12,7 +12,7 @@ This repository contains some linux commands and shortcuts which may make your w
     <li class="indexvals"><a href="#zsh-cheats">Zsh Cheats</a></li>
             <ul>
             <li class="indexvals"><a href="#zsh-keybinds">Zsh Keybinds</a></li>
-            <li class="indexvals"><a href="zsh-control">Zsh Control</a></li>
+            <li class="indexvals"><a href="#zsh-control">Zsh Control</a></li>
             </ul>    
 </ol>
 
