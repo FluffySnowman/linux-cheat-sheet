@@ -2,8 +2,10 @@
 
 # INDEX:
 <ol>
-    <li class="indexvals"><a href="#bash-cheats">Networking</a></li> 
+    <li class="indexvals"><a href="#bash-cheats">Bash Cheats</a></li> 
+            <ul>
             <li class="indexvals"><a href="#bash-keybinds">Bash Keybinds</a></li>
+            </ul>
     <li class="indexvals"><a href="#">a</a></li>
 </ol>
 
