@@ -21,13 +21,13 @@ This repository contains some linux commands and shortcuts which may make your w
 
 ### Bash Keybinds
 
-- `cntl+c` stops any command from running
+1. `cntl+c` stops any command from running
 
 - Example:
 
 ![image](https://user-images.githubusercontent.com/51316255/176604602-ac3b35d7-9df3-4c13-ad38-bf4bf490dbcd.png)
 
-- `cntl+r` to search for a command used in the past
+2. `cntl+r` to search for a command used in the past
 
 - Example:
 
@@ -35,17 +35,17 @@ This repository contains some linux commands and shortcuts which may make your w
 
 ![image](https://user-images.githubusercontent.com/51316255/176599797-2dd59db1-a8f3-4122-8640-5f7b1bebd3e7.png)
 
-- `cntl+a` to go  to the start of the line of the command
-- `cntl+e` to go to the end of the line of the command
-- `cntl+left arrow key` OR `cntl+right arrow key` to go left and right of letter bunches. Skipping all characters except spaces. basically to go from the end of a command to the start of the command in one keybind
+3. `cntl+a` to go  to the start of the line of the command
+4. `cntl+e` to go to the end of the line of the command
+5. `cntl+left arrow key` OR `cntl+right arrow key` to go left and right of letter bunches. Skipping all characters except spaces. basically to go from the end of a command to the start of the command in one keybind
 
 - Example: 
 
 https://user-images.githubusercontent.com/51316255/176603118-df5e40f1-dc64-427a-87a3-86b32f1aaad7.mp4
 
-- `cntl+L` to clear the terminal screen. Only inserts blank spaces for the screen itself. Scrolling up will show you the previous commands you have done  but it does clear the screen in a way
+6. `cntl+L` to clear the terminal screen. Only inserts blank spaces for the screen itself. Scrolling up will show you the previous commands you have done  but it does clear the screen in a way
 
-- `cntl+k` AND `cntl+u` to cut/delete everything to the end of the line. This is very useful when using `nano` (the terminal text editor).
+7. `cntl+k` AND `cntl+u` to cut/delete everything to the end of the line. This is very useful when using `nano` (the terminal text editor).
 
 - Example:
 
