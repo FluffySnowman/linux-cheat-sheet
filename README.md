@@ -33,6 +33,8 @@ Example:
 
 https://user-images.githubusercontent.com/51316255/176603118-df5e40f1-dc64-427a-87a3-86b32f1aaad7.mp4
 
+- `cntl+L` to clear the terminal screen. Only inserts blank spaces for the screen itself. Scrolling up will show you the previous commands you have done  but it does clear the screen in a way
+
 
 
 ### Bash Command Control
